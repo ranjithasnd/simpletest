@@ -1,0 +1,4 @@
+Python provides two built-in functions to read a line of text from standard input, which by default comes from the keyboard. These functions are -
+
+raw_input
+input
